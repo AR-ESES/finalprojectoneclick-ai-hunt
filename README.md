@@ -25,6 +25,9 @@ Queremos dar a conhecer um pouco mais sobre a inteligência artificial ao nosso 
 ### Trailer
 https://youtu.be/BCwylk7Zwl4
 
+
+### Elementos do jogo
+
 ### Logo
 
 ![logo1](https://github.com/AR-ESES/finalprojectoneclick-ai-hunt/assets/160871347/301691c5-c85c-49c1-b165-d1aaf385f092) 
@@ -40,6 +43,9 @@ https://youtu.be/BCwylk7Zwl4
 ### Coluna
 
 ![coluna1](https://github.com/AR-ESES/finalprojectoneclick-ai-hunt/assets/160871347/400effe3-a630-41a3-a830-16910b232370)
+
+ 
+ ![moodboard](https://github.com/AR-ESES/finalprojectoneclick-ai-hunt/assets/160871347/995430c1-5c88-4e5e-b10b-ef79a7366be4)
 
 
 ### Situações de jogo	
@@ -84,7 +90,7 @@ O jogo acaba e o fundo torna-se vermelhor, de modo a indicar que perdeu
 Ao colidir com a coluna o jogo oferece uma ultima oportunidade de continuar o jogo, para isso o jogador tem que acertar na questão, porém da proxima vez que perder, esta opção já não aparecerá e o jogo recomeça  
 
 ![6](https://github.com/AR-ESES/finalprojectoneclick-ai-hunt/assets/160871347/212a4084-14a9-40aa-abcf-0769e9d92b8d)
-**Fim de jogo** 
+**Fim de jogo**
 
 Quando o jogador perde o jogo por completo, aparece a pontuação total e um botão para voltar ao ecrã inicial
 
